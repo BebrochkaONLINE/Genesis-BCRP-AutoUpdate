@@ -1,5 +1,5 @@
 {
-  "version": "4.8.5",
+  "version": "4.8.6",
   "download_url": "https://github.com/BebrochkaONLINE/Genesis-BCRP-AutoUpdate/releases/latest/download/bcrp.zip",
   "mandatory": false,
   "description": "Первый выпуск встроенной системы автообновления."
